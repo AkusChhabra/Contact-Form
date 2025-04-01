@@ -15,6 +15,6 @@
 </div>
 <div>
   <p>
-    Future work for this project will involve routing post to an Azure SQL database.
+    Future work for this project will involve routing post to an Azure SQL database and configuring Recaptcha to domain.
   </p>
 </div>
