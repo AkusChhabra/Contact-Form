@@ -15,7 +15,7 @@
 </div>
 <div>
   <p>
-    Configured Recaptcha to domain using Recaptcha V2 API. Refer to formWithRecaptcha.html file.
+    Configured Recaptcha to domain using Recaptcha V2 API. Refer to <a href="https://github.com/AkusChhabra/Contact-Form/blob/main/formWithRecaptcha.html">formWithRecaptcha.html</a> file.
   </p>
   <p>
     Future work for this project will involve routing post to an Azure SQL database.
