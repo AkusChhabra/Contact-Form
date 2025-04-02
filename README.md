@@ -15,6 +15,9 @@
 </div>
 <div>
   <p>
-    Future work for this project will involve routing post to an Azure SQL database and configuring Recaptcha to domain.
+    Configured Recaptcha to domain using Recaptcha V2 API. Refer to formWithRecaptcha.html file.
+  </p>
+  <p>
+    Future work for this project will involve routing post to an Azure SQL database.
   </p>
 </div>
